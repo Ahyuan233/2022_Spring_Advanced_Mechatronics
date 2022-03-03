@@ -46,7 +46,7 @@ void setup()
   Serial.begin(9600);//Initialization of Serial Port
   delay(1000);
 
-  Serial.begin(9600);
+
 }
 
 void loop() {
